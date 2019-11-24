@@ -7,8 +7,6 @@
 </ul>
 <P>Both the dropdowns are displayed on the home screen and user can select the series from the dropdown and the respective chart will be shown to the user as line/bar chart </p>
 
-Note: This project is developed in such a way that if new series is added under Data or Signal, the user can select from dropdown and see as line or bar chart without changing any code.
-
 This project was bootsrapped with <a href = "https://github.com/facebook/create-react-app"> Create React App </a>
 
 ## Available Scripts
